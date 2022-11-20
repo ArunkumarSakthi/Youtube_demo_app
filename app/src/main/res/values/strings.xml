@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Youtube_Demo_App</string>
+    <string name="comments_screen">Comments Screen</string>
+    <string name="post_screen">Posts screen</string>
+    <string name="explore">Explore</string>
+    <string name="all">All</string>
+    <string name="tamil_cinema">Tamil cinema</string>
+    <string name="cricket">Cricket</string>
+    <string name="game_shows">Game shows</string>
+    <string name="gadgets">Gadgets</string>
+    <string name="live">Live</string>
+    <string name="computer_programming">Computer programming</string>
+    <string name="street_food">Street food</string>
+    <string name="gyms">Gyms</string>
+    <string name="motorcycles">Motorcycles</string>
+    <string name="send_feedback">SEND FEEDBACK</string>
+    <string name="view_post">View post</string>
+</resources>
